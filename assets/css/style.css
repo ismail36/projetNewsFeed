@@ -1,0 +1,64 @@
+
+.forLogo {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+
+.headPhoto {
+    width: 100%;
+}
+
+.searchForm {
+    display: flex;
+    padding: 20px;
+    box-shadow: grey 1px 0.1px 1px 1px;
+}
+
+
+input, .buton {
+    padding: 5px;
+    text-align: center;
+}
+
+
+#divGeneral {
+    display: flex;
+    max-width: 800px;
+    height: 300px;
+    padding: 10px;
+}
+
+#forPhoto img {
+    width: 300px;
+    height: 500px;
+    object-fit: cover;
+}
+
+#forText h2 {
+    text-align: center;
+}
+
+#forText {
+    margin-left: 10px;
+    margin-top: 0em;
+}
+
+#forText p {
+    margin-left: 0px;
+}
+
+
+.headPhoto {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.logoImg {
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    width: 350px;
+}
